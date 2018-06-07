@@ -1,0 +1,64 @@
+.all{
+	height: 600px;
+	width: 350px;
+	border:2px #000 solid;
+	border-radius: 40px;
+	margin:50px auto;
+	background: blue;
+}
+.top{
+	height:50px;
+	width:250px;
+	margin:10px auto;
+}
+.son1{
+	height:6px;
+	width:90px;
+	border:1px #000 dashed;
+	margin:10px auto;
+	float:left;
+	border-radius: 3px;
+
+}
+.son2{
+	height: 8px;
+	width: 8px;
+	margin: 10px;
+	border-radius: 4px;
+	float:left;
+	background:blue;
+
+}
+.son3{
+	height: 8px;
+	width: 8px;
+    margin-top: 10px;
+    border-radius: 4px;
+    float:left;
+    background:black;
+
+}
+.son4{
+	height: 12px;
+	width: 12px;
+	margin: 10px 10px 20px 60px ;
+	border-radius: 6px;
+	float:left;
+	background:red;
+}
+.mid{
+	height:450px;
+	width:300px;
+	background-image:url("http://img.ivsky.com/img/tupian/pre/201411/01/xiaohuangren_tupian-004.jpg");
+	background-size: cover;
+	background-position: -37px 20px;
+	margin: 0 auto;
+
+}
+.foot{
+	height:20px;
+	width:60px;
+	border:solid;
+	margin:20px auto;
+	border-radius: 10px;
+}
